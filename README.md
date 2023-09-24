@@ -3,9 +3,6 @@
 # Bicycle Speedometer Project 
 ![image](https://github.com/GishanDaminduDK/BicycleSpeedoMeter/assets/124694898/aeab43e4-123c-4af2-ab05-3634bbc9142d)
 
-
-![Bicycle Speedometer](images/bicycle_speedometer.jpg)
-
 Welcome to the Bicycle Speedometer project's README! This project is the result of my fourth-semester individual effort.
 
 ## Overview
