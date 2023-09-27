@@ -1,7 +1,8 @@
 
  
 # Bicycle Speedometer Project 
-![image](https://github.com/GishanDaminduDK/BicycleSpeedoMeter-Electronic_Project/assets/124694898/aeab43e4-123c-4af2-ab05-3634bbc9142d)
+![WhatsApp Image 2023-09-27 at 5 43 13 PM](https://github.com/GishanDaminduDK/BicycleSpeedoMeter-Electronic_Project/assets/124694898/2019a2dc-ad01-4815-a83a-669f986de0a9)
+
 
 Welcome to the Bicycle Speedometer project's README! This project is the result of my fourth-semester individual effort.
 
